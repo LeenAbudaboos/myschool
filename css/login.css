@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #009697;
+}
+form {
+    border: 1px solid #e7e7e7;
+    background-color: #F2F2F2;
+    width: 450px;
+    margin: 20px auto;
+    padding: 20px;
+    padding-left: 60px;
+  
+}
+
+.text{
+  text-align: center;
+
+}
+input {
+  width: 85%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+input:focus {
+  border: 2px solid dodgerblue;
+}
+button {
+  background-color: #EF5E4A;
+  color: white;
+  padding: 14px 2px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 40%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.h{
+  color: #f44336;
+}
+.material-symbols-sharp{
+  margin-right: 5px;
+  font-size: 1px;
+}

@@ -1,0 +1,46 @@
+.x{
+   margin-left: 2.5%;
+   margin-top: 2%;
+   margin-bottom: 1%;
+   padding-left: 10px;
+}
+
+table .Parent, td, th {
+    border: 1.2px solid #009697;
+   
+  }
+  
+   .Parent{
+    border-collapse: collapse;
+    width: 95%;
+    margin: auto;
+    color: #009697;
+  }
+  
+ th {
+    color: #009697;
+    background-color:#abdfdc;
+ }
+ .add{
+  padding: 10px;
+  padding-left: 3%;
+  padding-right: 3%;
+  margin: 33px;
+  background-color:#f44336 ;
+  border: none;
+  color: #ffff;
+ }
+ .delete{
+    background-color: #009697;
+    text-align: center;
+    margin: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border: none;
+    color: #ffff;
+    margin-left: 30%;
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+ }
